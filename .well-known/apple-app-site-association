@@ -5,7 +5,7 @@
       {
         "appID": "8NTHH93E28.com.vtouch.zcrm",
         "paths": [
-          "*"
+          "/crm.zoho.com/*"
         ]
       }
     ]
