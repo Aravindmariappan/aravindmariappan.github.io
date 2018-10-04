@@ -1,2 +1,3 @@
 name: Host Apple File
 markdown: kramdown
+permalink: /.well-known/
