@@ -3,10 +3,9 @@
     "apps": [],
     "details": [
       {
-        "appID": "R4F89R73A4.com.vtouch.zcrm",
+        "appID": "TZ824L8Y37.com.zoho.zcrm",
         "paths": [
-          "/crm.zoho.com/*",
-          "/crmplus.zoho.com/*"
+          "*"
         ]
       }
     ]
