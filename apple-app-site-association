@@ -62,11 +62,11 @@
 			{
 				"appID": "R4F89R73A4.com.vtouch.zcrm",
 				"paths": [
-					"NOT /crm/WebToLeadForm/",
-					"NOT /crm/WebToContactForm/",
-					"NOT /crm/WebToCaseForm/",
-					"NOT /crm/WebForm/",
-					"NOT /crm/Unsubscribe/",
+					"NOT /crm/WebToLeadForm/*",
+					"NOT /crm/WebToContactForm/*",
+					"NOT /crm/WebToCaseForm/*",
+					"NOT /crm/WebForm/*",
+					"NOT /crm/Unsubscribe/*",
 					"*"
 				]
 			}
