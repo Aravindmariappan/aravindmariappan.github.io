@@ -28,36 +28,35 @@
 			{
 				"appID": "FVE544UY83.com.zoho.zcrm",
 				"paths": [
-					"NOT /crm/WebToLeadForm*",
-					"NOT /crm/WebToContactForm*",
-					"NOT /crm/WebToCaseForm*",
-					"NOT /crm/WebForm*",
-					"NOT /crm/Unsubscribe*",
+					"NOT /crm/WebToLeadForm/*",
+					"NOT /crm/WebToContactForm/*",
+					"NOT /crm/WebToCaseForm/*",
+					"NOT /crm/WebForm/*",
+					"NOT /crm/Unsubscribe/*",
 					"*"
-
-				]
+					]
 			},
 			{
 				"appID": "TZ824L8Y37.com.zoho.zcrm",
 				"paths": [
-					"NOT /crm/WebToLeadForm*",
-					"NOT /crm/WebToContactForm*",
-					"NOT /crm/WebToCaseForm*",
-					"NOT /crm/WebForm*",
-					"NOT /crm/Unsubscribe*",
+					"NOT /crm/WebToLeadForm/*",
+					"NOT /crm/WebToContactForm/*",
+					"NOT /crm/WebToCaseForm/*",
+					"NOT /crm/WebForm/*",
+					"NOT /crm/Unsubscribe/*",
 					"*"
-				]
+					]
 			},
 			{
 				"appID": "3QZ6UJB6QX.com.vtouch.mdm.crm",
 				"paths": [
-					"NOT /crm/WebToLeadForm*",
-					"NOT /crm/WebToContactForm*",
-					"NOT /crm/WebToCaseForm*",
-					"NOT /crm/WebForm*",
-					"NOT /crm/Unsubscribe*",
+					"NOT /crm/WebToLeadForm/*",
+					"NOT /crm/WebToContactForm/*",
+					"NOT /crm/WebToCaseForm/*",
+					"NOT /crm/WebForm/*",
+					"NOT /crm/Unsubscribe/*",
 					"*"
-				]
+					]
 			},
 			{
 				"appID": "R4F89R73A4.com.vtouch.zcrm",
