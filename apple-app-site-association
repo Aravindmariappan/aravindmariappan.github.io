@@ -4,24 +4,48 @@
 		"details": [{
 				"appID": "TZ824L8Y37.com.zoho.zsolutions",
 				"paths": [
+					"NOT /crm/WebToLeadForm/*",
+					"NOT /crm/WebToContactForm/*",
+					"NOT /crm/WebToCaseForm/*",
+					"NOT /crm/WebForm/*",
+					"NOT /crm/Unsubscribe/*",
+					"NOT /bookings/*",
 					"*"
 				]
 			},
 			{
 				"appID": "TZ824L8Y37.com.zoho.zcrm.platform",
 				"paths": [
+					"NOT /crm/WebToLeadForm/*",
+					"NOT /crm/WebToContactForm/*",
+					"NOT /crm/WebToCaseForm/*",
+					"NOT /crm/WebForm/*",
+					"NOT /crm/Unsubscribe/*",
+					"NOT /bookings/*",
 					"*"
 				]
 			},
 			{
 				"appID": "3QZ6UJB6QX.com.vtouch.mdm.zsolutions",
 				"paths": [
+					"NOT /crm/WebToLeadForm/*",
+					"NOT /crm/WebToContactForm/*",
+					"NOT /crm/WebToCaseForm/*",
+					"NOT /crm/WebForm/*",
+					"NOT /crm/Unsubscribe/*",
+					"NOT /bookings/*",
 					"*"
 				]
 			},
 			{
 				"appID": "3QZ6UJB6QX.com.vtouch.platform.crm",
 				"paths": [
+					"NOT /crm/WebToLeadForm/*",
+					"NOT /crm/WebToContactForm/*",
+					"NOT /crm/WebToCaseForm/*",
+					"NOT /crm/WebForm/*",
+					"NOT /crm/Unsubscribe/*",
+					"NOT /bookings/*",
 					"*"
 				]
 			},
@@ -33,8 +57,9 @@
 					"NOT /crm/WebToCaseForm/*",
 					"NOT /crm/WebForm/*",
 					"NOT /crm/Unsubscribe/*",
+					"NOT /bookings/*",
 					"*"
-					]
+				]
 			},
 			{
 				"appID": "TZ824L8Y37.com.zoho.zcrm",
@@ -44,8 +69,9 @@
 					"NOT /crm/WebToCaseForm/*",
 					"NOT /crm/WebForm/*",
 					"NOT /crm/Unsubscribe/*",
+					"NOT /bookings/*",
 					"*"
-					]
+				]
 			},
 			{
 				"appID": "3QZ6UJB6QX.com.vtouch.mdm.crm",
@@ -55,8 +81,9 @@
 					"NOT /crm/WebToCaseForm/*",
 					"NOT /crm/WebForm/*",
 					"NOT /crm/Unsubscribe/*",
+					"NOT /bookings/*",
 					"*"
-					]
+				]
 			},
 			{
 				"appID": "R4F89R73A4.com.vtouch.zcrm",
@@ -66,6 +93,7 @@
 					"NOT /crm/WebToCaseForm/*",
 					"NOT /crm/WebForm/*",
 					"NOT /crm/Unsubscribe/*",
+					"NOT /bookings/*",
 					"*"
 				]
 			}
